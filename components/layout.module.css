@@ -3,3 +3,14 @@
     padding: 0 1rem;
     margin: 3rem auto 6rem;
 }
+
+.myClass {
+    color: orange;
+    font-size:18px;
+}
+
+
+.overrideStyle {
+    color: orange;
+    font-size:18px;
+}

@@ -8,7 +8,7 @@ export default function SecondPost() {
       <Head>
         <title>Second Post</title>
       </Head>
-      <h1>Second Post</h1>
+      <h1>Hello Again!</h1>
       <h2>
         <Link href="/">Back to home</Link>
       </h2>
